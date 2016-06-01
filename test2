@@ -1,0 +1,21 @@
+/*This program is to check condition comparision operation , and execeute statements inside if while and assignment*/
+void main(){
+    int a,b,c,n;
+    if(a==0){
+        a=a-b;
+    }
+    else
+    {
+        a=100;
+    }
+    /*
+    checking comments in betwee selectors and iterators
+    */
+    while(n>5){
+        c=a+b;
+        a=c-a;
+        /*
+        printf("%d",c);
+        */
+    }
+}
